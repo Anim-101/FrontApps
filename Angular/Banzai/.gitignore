@@ -43,3 +43,6 @@ Thumbs.db
 
 # Ignore vscode files
 .vscode
+
+# Ignore angular files
+.angular
